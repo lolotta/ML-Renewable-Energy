@@ -1,0 +1,5 @@
+location,mean_train_score
+photovoltaic_1_hr,17.545132743888527
+photovoltaic_24_hr,30.530365782359837
+wind_total_1_hr,61.635692779815976
+wind_total_24_hr,100.01260663210296
